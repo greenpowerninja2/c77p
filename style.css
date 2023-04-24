@@ -1,0 +1,13 @@
+#h1{
+    align-items: center;
+    color: blue;
+}
+
+h2{
+    align-items: center;
+    color: aqua;
+}
+
+::backdrop{
+    color: cadetblue;
+}
